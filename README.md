@@ -79,38 +79,4 @@ Get a free key at https://console.groq.com (Sign in, open API Keys, create a key
 python app.py
 ```
 
-Open http://127.0.0.1:5000 in your browser.
-
-## Usage
-
-1. On the home page, upload a resume from `sample_resumes/` (or your own PDF).
-2. Paste a job description from `sample_jds/`, or upload the `.txt` file.
-3. Click **Analyze Resume** to view the result.
-4. Open **History** to see all past analyses, and click any candidate to reopen the full report.
-
-## Project Structure
-
-```
-app.py                 Flask routes and application setup
-schema.sql             Database table definition
-requirements.txt       Python dependencies
-.env.example           Template for the environment file
-utils/
-    parser.py          PDF text extraction and contact details
-    ai.py              Groq API call and response handling
-    matcher.py         Star rating and fit status
-    database.py        SQLite setup, save and retrieve
-templates/
-    index.html         Upload page
-    result.html        Analysis result page
-    history.html       Candidate history page
-static/
-    style.css          Custom styles
-sample_resumes/        Example PDF resumes
-sample_jds/            Example job descriptions
-```
-
-## Notes
-
-- The database file (`database/resume.db`) and uploaded resumes are created automatically and are not tracked by git.
-- Keep your `.env` file private. It is ignored by git so it is never committed.
+Open http://127.0.0.1:500 in your browser.
