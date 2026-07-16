@@ -1,0 +1,22 @@
+Java Backend Developer
+
+We need a Java Backend Developer to work on our enterprise applications.
+
+Responsibilities:
+- Develop backend services using Java and Spring Boot
+- Design relational database schemas
+- Deploy and maintain containerized services
+- Ensure application performance and reliability
+
+Required Skills:
+- Java
+- Spring Boot
+- MySQL
+- REST APIs
+- Docker
+
+Good to have:
+- Kubernetes
+- Microservices architecture
+- AWS or Azure
+- Unit testing with JUnit

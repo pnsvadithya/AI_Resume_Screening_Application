@@ -1,0 +1,22 @@
+Backend Python Developer
+
+We are looking for a Backend Python Developer to build and maintain our web services.
+
+Responsibilities:
+- Design and build REST APIs using Python and Flask
+- Write and optimize SQL queries
+- Work with databases and data pipelines
+- Collaborate with the frontend team on integrations
+
+Required Skills:
+- Python
+- Flask
+- SQL
+- REST APIs
+- Git
+
+Good to have:
+- Docker
+- AWS
+- CI/CD pipelines
+- Experience with Pandas or data analysis

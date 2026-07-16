@@ -1,0 +1,34 @@
+body {
+    background-color: #f4f6f9;
+    color: #2b2f38;
+}
+
+.navbar-brand {
+    letter-spacing: 0.3px;
+}
+
+.card {
+    border: none;
+    border-radius: 14px;
+}
+
+.btn-primary {
+    background-color: #3b5bdb;
+    border-color: #3b5bdb;
+}
+
+.btn-primary:hover {
+    background-color: #324ec0;
+    border-color: #324ec0;
+}
+
+.form-control:focus {
+    border-color: #3b5bdb;
+    box-shadow: 0 0 0 0.2rem rgba(59, 91, 219, 0.15);
+}
+
+.stars {
+    color: #f59f00;
+    font-size: 1.6rem;
+    line-height: 1;
+}
